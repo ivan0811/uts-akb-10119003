@@ -13,6 +13,9 @@ import com.ivan.uts_10119003.R;
 import com.ivan.uts_10119003.model.CatatanModel;
 import com.ivan.uts_10119003.service.DBService;
 
+//nim : 10119003
+//nama : ivan faathirza
+//kelas : IF1
 public class AddCatatanActivity extends AppCompatActivity {
     EditText judul_input, kategori_input, konten_input;
     Button add_button;

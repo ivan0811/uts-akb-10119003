@@ -10,7 +10,9 @@ import androidx.fragment.app.FragmentActivity;
 
 import com.ivan.uts_10119003.R;
 //import com.ivan.uts_10119003.databinding.FragmentHomeBinding;
-
+//nim : 10119003
+//nama : ivan faathirza
+//kelas : IF1
 public class ProfileFragment extends Fragment {
 //    private FragmentHomeBinding binding;
 //    FragmentActivity listener;

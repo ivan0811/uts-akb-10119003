@@ -14,12 +14,7 @@
             android:title="@string/menu_gallery" />
         <item
             android:id="@+id/nav_slideshow"
-<<<<<<< HEAD
             android:icon="@drawable/ic_baseline_info_24"
             android:title="@string/menu_slideshow" />
-=======
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="About" />
->>>>>>> ea0c0aad720432fd6ad6fcecd352a0cf54d09416
     </group>
 </menu>

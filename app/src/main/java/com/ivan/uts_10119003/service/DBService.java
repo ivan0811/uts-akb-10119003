@@ -11,6 +11,9 @@ import androidx.annotation.Nullable;
 
 import com.ivan.uts_10119003.model.CatatanModel;
 
+//nim : 10119003
+//nama : ivan faathirza
+//kelas : IF1
 public class DBService extends SQLiteOpenHelper {
     private Context context;
     private static final String DATABASE_NAME = "catatan.db";

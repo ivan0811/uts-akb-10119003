@@ -26,6 +26,9 @@ import java.util.ArrayList;
 import java.util.List;
 //import com.ivan.uts_10119003.databinding.FragmentHomeBinding;
 
+//nim : 10119003
+//nama : ivan faathirza
+//kelas : IF1
 public class CatatanFragment extends Fragment {
 
     RecyclerView recyclerView;

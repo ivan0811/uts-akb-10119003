@@ -8,7 +8,9 @@ import android.os.Handler;
 
 import com.ivan.uts_10119003.MainActivity;
 import com.ivan.uts_10119003.R;
-
+//nim : 10119003
+//nama : ivan faathirza
+//kelas : IF1
 public class splash_screen extends AppCompatActivity {
 
     @Override

@@ -14,6 +14,10 @@ import com.ivan.uts_10119003.model.AboutModel;
 
 import java.util.ArrayList;
 
+//nim : 10119003
+//nama : ivan faathirza
+//kelas : IF1
+
 public class AboutAdapter extends RecyclerView.Adapter<AboutAdapter.ViewHolder>{
     ArrayList<AboutModel> aboutModelArrayList;
 

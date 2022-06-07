@@ -20,6 +20,9 @@ import com.ivan.uts_10119003.model.CatatanModel;
 import java.util.ArrayList;
 import java.util.List;
 
+//nim : 10119003
+//nama : ivan faathirza
+//kelas : IF1
 public class CatatanAdapter extends RecyclerView.Adapter<CatatanAdapter.MyViewHolder>{
     private Activity activity;
     private List<CatatanModel> catatan_list = new ArrayList<CatatanModel>();

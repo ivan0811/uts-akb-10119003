@@ -1,5 +1,9 @@
 package com.ivan.uts_10119003.model;
 
+//nim : 10119003
+//nama : ivan faathirza
+//kelas : IF1
+
 public class CatatanModel {
     private String id, judul, kategori, konten, created_at;
 

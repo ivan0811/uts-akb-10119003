@@ -17,6 +17,10 @@ import java.util.ArrayList;
 
 //import com.ivan.uts_10119003.databinding.FragmentSlideshowBinding;
 
+//nim : 10119003
+//nama : ivan faathirza
+//kelas : IF1
+
 public class AboutFragment extends Fragment {
 
     ViewPager2 viewPager2;

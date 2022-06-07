@@ -15,7 +15,9 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.ivan.uts_10119003.databinding.ActivityMainBinding;
-
+//nim : 10119003
+//nama : ivan faathirza
+//kelas : IF1
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
